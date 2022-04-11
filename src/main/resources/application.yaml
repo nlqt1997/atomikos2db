@@ -1,0 +1,9 @@
+datasource:
+ db1:
+  username: hr
+  password: hrpw
+  jdbc-url: jdbc:oracle:thin:@//localhost:1531/ORCLPDB1.localdomain
+ db2:
+  username: hr
+  password: hrpw
+  jdbc-url: jdbc:oracle:thin:@//localhost:1532/ORCLPDB1.localdomain
